@@ -6,12 +6,6 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0px 40px;
-  box-sizing: border-box;
-  max-width: 1200px;
-  padding-left:20px;
-  padding-right: 20px;
-  margin-right: auto;
-  margin-left: auto;
 }
 .indroducao p, .indroducao a {
   grid-column: 1;
