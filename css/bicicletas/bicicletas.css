@@ -74,6 +74,9 @@
     padding-left: 40px;
     padding-bottom: 40px;
   }
+  .bicicletas-bg{
+    background: var(--cor-11);
+  }
 }
 @media(max-width:600px){
   .bicicletas-conteudo{
