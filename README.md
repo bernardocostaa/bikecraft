@@ -1,11 +1,36 @@
-# bikecraft
+<h1 align="center">
+  Bikecraft
+</h1>
 
-### Projeto
+<p align="center">
+  <img alt="" src="https://raw.githubusercontent.com/bernardocostaa/AutoCar/main/templete2.jpg" width="100%">
+</p>
 
-Foi feito um site de venda de bicicletas em HTML5, CSS3 e JavaScript
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://bernardocostaa.github.io/AutoCar/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-### Template do Projeto
+<br>
 
-<img width="150" align="center" alt="Business_PNG" target="_blank" src="https://user-images.githubusercontent.com/73037458/148460518-98d78911-3fea-4fc6-94a4-56a55e4be52b.png">
+## 🚀 Tecnologias
 
-## Acesse o Link: https://bernardocostaa.github.io/bikecraft/
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 🚧 Projeto:
+
+Link do Projeto: [Bikecraft](https://bernardocostaa.github.io/AutoCar/)
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bernardocostaa/AutoCar/blob/main/LICENSE) para mais detalhes.
+
+---
+
+Feito por Bernardo Costa
